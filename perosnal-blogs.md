@@ -11,3 +11,6 @@ by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [Context Level Diagram](https://medium.com/@jma8744/context-level-diagram-90ba8b6f2127)
 by [AslamJM](https://github.com/AslamJM)
+
+[Level 0 Diagram](https://medium.com/@jma8744/level-0-diagram-2d74c9443664)
+by [AslamJM](https://github.com/AslamJM)
