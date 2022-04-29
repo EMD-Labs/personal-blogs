@@ -14,3 +14,6 @@ by [AslamJM](https://github.com/AslamJM)
 
 [Level 0 Diagram](https://medium.com/@jma8744/level-0-diagram-2d74c9443664)
 by [AslamJM](https://github.com/AslamJM)
+
+[Expo CLI vs React Native CLI](https://medium.com/@p.thuvarakan1997/expo-cli-vs-react-native-cli-34bc7fdc373f)
+by [Ponraj Thuvarakan](https://medium.com/@p.thuvarakan1997)
