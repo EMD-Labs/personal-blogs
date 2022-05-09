@@ -17,3 +17,6 @@ by [AslamJM](https://github.com/AslamJM)
 
 [Expo CLI vs React Native CLI](https://medium.com/@p.thuvarakan1997/expo-cli-vs-react-native-cli-34bc7fdc373f)
 by [Ponraj Thuvarakan](https://medium.com/@p.thuvarakan1997)
+
+[Micro Service vs Monolithic? Which one should I choose for a full fletch application?](https://medium.com/@thushaamal93/micro-service-vs-monolithic-which-one-should-i-choose-for-a-full-fletch-application-bb21d6e37eb6)
+by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
