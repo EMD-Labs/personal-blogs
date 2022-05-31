@@ -20,3 +20,6 @@ by [Ponraj Thuvarakan](https://medium.com/@p.thuvarakan1997)
 
 [Micro Service vs Monolithic? Which one should I choose for a full fletch application?](https://medium.com/@thushaamal93/micro-service-vs-monolithic-which-one-should-i-choose-for-a-full-fletch-application-bb21d6e37eb6)
 by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
+
+[“Docker” the Container-Based Application](https://medium.com/@thushaamal93/docker-the-container-based-application-8248429df82)
+by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
