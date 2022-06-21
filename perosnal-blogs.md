@@ -23,3 +23,6 @@ by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [“Docker” the Container-Based Application](https://medium.com/@thushaamal93/docker-the-container-based-application-8248429df82)
 by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
+
+[Fundamentals of Software Testing](https://medium.com/@afkarakee99/fundamentals-of-software-testing-15d655b2020e)
+by [Mohamed Afkar](https://github.com/afrak99)
