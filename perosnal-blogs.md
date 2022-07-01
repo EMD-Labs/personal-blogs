@@ -26,3 +26,6 @@ by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [Fundamentals of Software Testing](https://medium.com/@afkarakee99/fundamentals-of-software-testing-15d655b2020e)
 by [Mohamed Afkar](https://github.com/afrak99)
+
+[Types of software testing you should be aware](https://medium.com/@afkar99/types-of-software-testing-you-should-be-aware-2043893a1875)
+by [Mohamed Afkar](https://github.com/afrak99)
