@@ -26,3 +26,6 @@ by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [Fundamentals of Software Testing](https://medium.com/@afkarakee99/fundamentals-of-software-testing-15d655b2020e)
 by [Mohamed Afkar](https://github.com/afrak99)
+
+[Integrating the Coinbase crypto payment gateway with your web application](https://medium.com/@thushaamal93/integrating-the-coinbase-crypto-payment-gateway-with-your-web-application-c939edae1468)
+by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
